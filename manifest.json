@@ -1,0 +1,11 @@
+{
+    "name" : "FreeTheImitations",
+    "description": "A bunch of silly entity impressions by Frida",
+    "version_number" : "1.0.1",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "loaforc-loaforcsSoundAPI-2.0.8",
+        "loaforc-loaforcsSoundAPI_LethalCompany-1.0.2"
+    ],
+    "website_url": ""
+}

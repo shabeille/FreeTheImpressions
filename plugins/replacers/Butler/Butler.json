@@ -1,0 +1,93 @@
+{
+    "replacements": [
+        {
+            "matches": [
+                "*:BroomSweep1",
+                "*:BroomSweep2",
+                "*:BroomSweep3",
+                "*:BroomSweep4"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Butler/BroomSweep1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/BroomSweep2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/BroomSweep3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/BroomSweep4.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:ButlerBlowUp",
+            "sounds": [
+                {
+                    "sound": "entity/Butler/ButlerBlowUp.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:ButlerBuzzingAmbience",
+            "sounds": [
+                {
+                    "sound": "entity/Butler/ButlerBuzzingAmbience.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:ButlerIdleAmbience",
+            "sounds": [
+                {
+                    "sound": "entity/Butler/ButlerIdleAmbience.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:ButlerMurderTheme",
+            "sounds": [
+                {
+                    "sound": "entity/Butler/ButlerMurderTheme.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:ButlerStep1",
+                "*:ButlerStep2",
+                "*:ButlerStep3",
+                "*:ButlerStep4",
+                "*:ButlerStep5"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Butler/ButlerStep1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/ButlerStep2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/ButlerStep3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/ButlerStep4.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Butler/ButlerStep5.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

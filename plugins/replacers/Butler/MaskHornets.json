@@ -1,0 +1,12 @@
+{
+    "replacements": [
+        {
+            "matches": "*:ButlerBeeSwarm",
+            "sounds": [
+                {
+                    "sound": "entity/MaskHornets/ButlerBeeSwarm.ogg"
+                }
+            ]
+        }
+    ]
+}

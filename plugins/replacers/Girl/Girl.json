@@ -1,0 +1,60 @@
+{
+    "replacements": [
+        {
+            "matches": "DressGirlModel:VoiceSFX:Breathing",
+            "sounds": [
+                {
+                    "sound": "entity/girl/Breathing.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:Laugh2",
+                "*:Wheeze",
+                "*:Breath1",
+                "*:Breath2",
+                "*:Breath3",
+                "*:Stepping1"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/girl/Breath2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/girl/Laugh2.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:SkipWalk1",
+                "*:SkipWalk2",
+                "*:SkipWalk3",
+                "*:SkipWalk4",
+                "*:SkipWalk5",
+                "*:SkipWalk6"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/girl/SkipWalk1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/girl/SkipWalk2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/girl/SkipWalk3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/girl/SkipWalk4.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "replacements": [
+        {
+            "matches": "*:NutcrackerAngry",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/NutcrackerAngry.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:AlertedSFX",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/AlertedSFX.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:HeadGoUp",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/HeadGoUp.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:NutcrackerDie",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/NutcrackerDie.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:ShotgunReloadNutcracker",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/ShotgunReloadNutcracker.ogg"
+                }
+            ]
+        },
+
+        {
+            "matches": [
+                "*:BootStomp1",
+                "*:BootStomp2",
+                "*:BootStomp3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/BootStomp1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/BootStomp2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/BootStomp3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:MetalSqueak1",
+                "*:MetalSqueak2",
+                "*:MetalSqueak3",
+                "*:MetalSqueak4"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/MetalSqueak1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/MetalSqueak2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/MetalSqueak3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/MetalSqueak4.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:StopTurning1",
+                "*:StopTurning2",
+                "*:StopTurning3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/StopTurning1.ogg",
+                    "weight": 1 
+                },
+                {
+                    "sound": "entity/Nutcracker/StopTurning2.ogg",
+                    "weight": 1 
+                },
+                {
+                    "sound": "entity/Nutcracker/StopTurning3.ogg",
+                    "weight": 1 
+                }
+            ]
+        },
+        {
+            "matches": "*:Kick",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/Kick1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/Kick2.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:NutcrackerHitEye",
+            "sounds": [
+                {
+                    "sound": "entity/Nutcracker/NutcrackerHitEye1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Nutcracker/NutcrackerHitEye2.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

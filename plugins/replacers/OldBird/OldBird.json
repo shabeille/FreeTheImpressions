@@ -1,0 +1,78 @@
+{
+    "replacements": [
+        {
+            "matches": "*:LRADAlarm3",
+            "sounds": [
+                {
+                    "sound": "entity/OldBird/LRADAlarm3.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:robotTune",
+            "sounds": [
+                {
+                    "sound": "entity/OldBird/robotTune.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:LradBrainwashingSignal1",
+                "*:LradBrainwashingSignal4",
+                "*:LradBrainwashingSignal6",
+                "*:LradBrainwashingSignal7",
+                "*:LradBrainwashingSignal8"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/OldBird/LradBrainwashingSignal1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/LradBrainwashingSignal2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/LradBrainwashingSignal6.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/LradBrainwashingSignal7.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/LradBrainwashingSignal8.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:RadMechStomp1",
+                "*:RadMechStomp2",
+                "*:RadMechStomp3",
+                "*:RadMechStomp4"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/OldBird/RadMechStomp1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/RadMechStomp2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/RadMechStomp3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/OldBird/RadMechStomp4.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "replacements": [
+        {
+            "matches": [
+                "*:BareFootstep1",
+                "*:BareFootstep2",
+                "*:BareFootstep3",
+                "*:BareFootstep4"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Coil/BareFootstep1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/BareFootstep2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/BareFootstep3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/BareFootstep4.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/BareFootstep5.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:Spring1",
+                "*:Spring2",
+                "*:Spring3",
+                "*:SpringWobble1",
+                "*:SpringWobble2"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Coil/Spring1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/Spring2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/Spring3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Coil/Spring4.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:EnterCooldown",
+            "sounds": [
+                {
+                    "sound": "entity/Coil/EnterCooldown.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:KillPlayerSpring",
+            "sounds": [
+                {
+                    "sound": "entity/Coil/KillPlayerSpring.ogg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+	"replacements": [
+		{
+			"matches": [
+				"*:Shriek1",
+				"*:Shriek2"
+			],
+			"sounds": [
+				{
+					"sound": "entity/SnareFlea/Shriek1.ogg",
+					"weight": 1
+				},
+				{
+					"sound": "entity/SnareFlea/Shriek2.ogg",
+					"weight": 1
+				}
+			]
+		},
+		{
+			"matches": "*:DeathShriek",
+			"sounds": [
+				{
+					"sound": "entity/SnareFlea/DeathShriek.ogg"
+				}
+			]
+		}
+	]
+}

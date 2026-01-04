@@ -1,0 +1,75 @@
+{
+	"replacements": [
+		{ 
+			"matches": [
+                "*:MaskLaugh1",
+                "*:MaskLaugh2",
+                "*:MaskLaugh3",
+                "*:Laugh1"
+            ],
+			"sounds": [
+				{
+					"sound": "entity/masked/MaskLaugh1.ogg",
+                    "weight": 1
+				},
+                {
+					"sound": "entity/masked/MaskLaugh2.ogg",
+                    "weight": 1
+				},
+                {
+					"sound": "entity/masked/MaskLaugh3.ogg",
+                    "weight": 1
+				}
+			]
+		},
+        {
+            "matches": [
+                "*:MaskCry1",
+                "*:MaskCry2",
+                "*:MaskCry3",
+                "*:MaskCry4"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/masked/MaskCry1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/masked/MaskCry2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/masked/MaskCry3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+
+        {
+            "matches": "*:MaskAttackPlayer",
+            "sounds": [
+                {
+                    "sound": "entity/masked/MaskAttackPlayer.ogg"
+                }
+            ]
+        },
+
+        {
+            "matches": "*:MaskFaceLightUp",
+            "sounds": [
+                {
+                    "sound": "entity/masked/MaskFaceLightUp.ogg"
+                }
+            ]
+        },
+
+        {
+            "matches": "*:MaskPuke",
+            "sounds": [
+                {
+                    "sound": "entity/masked/MaskPuke.ogg"
+                }
+            ]
+        }
+	]
+}

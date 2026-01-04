@@ -1,0 +1,12 @@
+{
+	"replacements": [
+		{
+			"matches": "*:BoomboxMusic5Zedfox",
+			"sounds": [
+				{
+					"sound": "boombox/boombox5.mp3"
+				}
+			]
+		}
+	]
+}

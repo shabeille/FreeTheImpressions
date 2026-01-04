@@ -1,0 +1,81 @@
+{
+    "replacements": [
+        {
+            "matches": "*:Breathe1",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/Breathe1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:growl",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/growl.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:Breathe1",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/Breathe1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:KillPlayer",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/KillPlayer.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:Lunge1",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/Lunge1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:Roar",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/Roar_0.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:StunDog",
+            "sounds": [
+                {
+                    "sound": "entity/Dog/StunDog.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:Stomp1double",
+                "*:Stomp2double",
+                "*:Stomp3double"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Dog/Stomp1Double.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Dog/Stomp2Double.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Dog/Stomp3Double.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

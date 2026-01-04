@@ -1,0 +1,81 @@
+{
+    "replacements": [
+        {
+            "matches": "Crawler:VoiceSFX:BitePlayer",
+            "sounds": [
+                {
+                    "sound": "entity/Thumper/BitePlayer.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:CrawlerDie",
+            "sounds": [
+                {
+                    "sound": "entity/Thumper/CrawlerDie.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:HitCrawler",
+                "*:HitCrawler2",
+                "*:Ram1",
+                "*:Ram2",
+                "*:Ram3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Thumper/HitCrawler.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Thumper/HitCrawler2.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:LongRoar1",
+                "*:LongRoar2",
+                "*:LongRoar3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Thumper/LongRoar1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Thumper/LongRoar2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Thumper/LongRoar3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:Stomp1",
+                "*:Stomp2",
+                "*:Stomp3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Thumper/Stomp1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Thumper/Stomp2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Thumper/Stomp3.ogg",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}

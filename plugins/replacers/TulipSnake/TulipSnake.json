@@ -1,0 +1,75 @@
+{
+    "replacements": [
+        {
+            "matches": [
+                "*:Chuckle1",
+                "*:Chuckle3",
+                "*:Chuckle4",
+                "*:Chuckle5"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/TulipSnake/Chuckle1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/TulipSnake/Chuckle3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/TulipSnake/Chuckle4.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/TulipSnake/Chuckle5.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:FlapWings",
+                "*:FlapWings2"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/TulipSnake/FlapWings.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/TulipSnake/FlapWings2.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:Leap1",
+                "*:Leap2",
+                "*:Leap3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/TulipSnake/Leap1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/TulipSnake/Leap2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/TulipSnake/Leap3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:FlowerSnakeScurry",
+            "sounds": [
+                {
+                    "sound": "entity/TulipSnake/FlowerSnakeScurry.ogg"
+                }
+            ]
+        }
+    ]
+}

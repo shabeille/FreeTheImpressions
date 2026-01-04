@@ -1,0 +1,51 @@
+{
+    "replacements": [
+        {
+            "matches": [
+                "*:ParadeMarch1",
+                "*:ParadeMarch2",
+                "*:ParadeMarch3",
+                "*:ParadeMarch4",
+                "*:ParadeMarch5"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Barber/ParadeMarch1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Barber/ParadeMarch2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Barber/ParadeMarch3.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Barber/ParadeMarch4.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Barber/ParadeMarch5.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:ScissorsSnip",
+            "sounds": [
+                {
+                    "sound": "entity/Barber/ScissorsSnip.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:SnareBuildup",
+            "sounds": [
+                {
+                    "sound": "entity/Barber/SnareBuildup.ogg"
+                }
+            ]
+        }
+    ]
+}

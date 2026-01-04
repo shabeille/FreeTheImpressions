@@ -1,0 +1,36 @@
+{
+    "replacements": [
+        {
+            "matches": "*:BeeHiveIdle",
+            "sounds": [
+                {
+                    "sound": "entity/Bees/BeeHiveIdle.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:BeesAngry",
+            "sounds": [
+                {
+                    "sound": "entity/Bees/BeesAngry.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:BeesDefensive",
+            "sounds": [
+                {
+                    "sound": "entity/Bees/BeesDefensive.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:BeeZapConstant",
+            "sounds": [
+                {
+                    "sound": "entity/Bees/BeeZapConstant.ogg"
+                }
+            ]
+        }
+    ]
+}

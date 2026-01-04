@@ -1,0 +1,57 @@
+{
+    "replacements": [
+        {
+            "matches": [
+                "*:BurrowingRumble1",
+                "*:BurrowingRumble2",
+                "*:BurrowingRumble3"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Worm/BurrowingRumble1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Worm/BurrowingRumble2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Worm/BurrowingRumble3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:BurrowingRumbleLoud1",
+            "sounds": [
+                {
+                    "sound": "entity/Worm/BurrowingRumbleLoud1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "*:SandWormRoar",
+                "*:SandWormRoar2"
+            ],
+            "sounds": [
+                {
+                    "sound": "entity/Worm/SandWormRoar.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "entity/Worm/SandWormRoar2.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": "*:TunnelIntoGround1",
+            "sounds": [
+                {
+                    "sound": "entity/Worm/TunnelIntoGround1.ogg"
+                }
+            ]
+        }
+    ]
+}
